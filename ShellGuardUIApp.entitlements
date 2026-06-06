@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Mac App Store: sandbox required -->
+    <key>com.apple.security.app-sandbox</key>
+    <true/>
+
+    <!-- User-selected files: read/write (NSOpenPanel for hook config files) -->
+    <key>com.apple.security.files.user-selected.read-write</key>
+    <true/>
+
+    <!-- App-scoped security-scoped bookmarks (persist access across launches) -->
+    <key>com.apple.security.files.bookmarks.app-scope</key>
+    <true/>
+
+    <!-- Required: team-prefixed bundle identifier for App Store signing -->
+    <key>com.apple.application-identifier</key>
+    <string>K985JG69U7.com.shellguard.app</string>
+</dict>
+</plist>
