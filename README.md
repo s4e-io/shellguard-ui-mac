@@ -39,7 +39,7 @@ Native macOS menu bar app that wraps the [ShellGuard CLI](https://github.com/s4e
 ## Installation
 
 ### Mac App Store
-[Download on the Mac App Store](https://apps.apple.com/app/shell-guard/) *(coming soon)*
+Coming soon.
 
 ### DMG (direct)
 Download `ShellGuard.dmg` from [Releases](../../releases), open it, drag **ShellGuard.app** to `/Applications`.
